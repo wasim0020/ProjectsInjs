@@ -40,6 +40,7 @@ change.innerHTML = temperture
 
 
 
+
 // const WheatherData = new Promise(function(reslove,reject){
 //     const validapi = true;
 //     if(validapi){
