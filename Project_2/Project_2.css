@@ -1,0 +1,52 @@
+.box1{
+   background-color: rgb(156, 140, 140);
+   border: 1px solid black;
+   height: 400px;
+   
+}
+.heading{
+   text-align: center;
+   padding: 5px;
+   text-decoration: underline;
+
+}
+
+.heading2{
+   margin: 0px ;
+}
+
+
+.container{
+   display: flex;
+}
+
+.box1{
+   border: 1px solid blue;
+   width: 300px;
+   height: 300px;
+   background-color: antiquewhite;
+   margin: 5px;
+   padding: 5px;
+}
+.box2{
+   border: 1px solid blue;
+   width: 300px;
+   height: 300px;
+   background-color: rgb(233, 143, 25);
+   margin: 5px;
+   padding: 1px 5px 5px 5px;
+}
+
+#trans{
+   background-color: transparent;
+   border: none;
+}
+
+.button{
+   margin: 4px 40px 0px 40px;
+   border: 1px solid black;
+   padding: 10px;
+   background-color: aquamarine;
+   border-radius: 2px;
+
+}
